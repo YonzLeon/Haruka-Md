@@ -1,9 +1,9 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
+    "ownerNumber": ["62895613103580@s.whatsapp.net","628984005060@s.whatsapp.net"],
+    "ownerName": "Yonz",
+    "instagram" : "https://instagram.com/chang_xinn",
+    "gcwa" : "https://chat.whatsapp.com/K5v3PSpHSCL5jAzo2iBiKJ",
+    "botName": "Yonz Bot",
     "footer": "2023 © api.zeeoneofc.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
@@ -28,6 +28,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 100
     }
 }
